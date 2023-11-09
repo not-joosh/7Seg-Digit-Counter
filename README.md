@@ -105,3 +105,23 @@ CODE ENDS
 END START
 
 ```
+---
+
+### USEFUL 8285 NOTES:
+<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/4578223e-12ab-4a6a-8a15-37ec7e13f638">
+<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/d940cc65-b5f0-4c40-9c68-ed327d83361f">
+<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/b2b57c0e-e1a3-4734-9422-72c09a24830c">
+
+---
+
+### USEFUL 8253 NOTES:
+<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/0a1cf56f-e345-415f-972d-b6996a1bf848">
+
+--- 
+### References 
+- (8255 Screenshots)
+  - Univeristy of San Carlos
+- (8253 Notes)
+  - https://datasheetspdf.com/pdf-file/45347/IntelCorporation/8253/1 
+  - https://www.slideserve.com/woodse/8253-54-timer-and-music-powerpoint-ppt-presentation
+      
