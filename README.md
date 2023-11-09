@@ -5,7 +5,8 @@ This assembly code project simulates a 7-Segment digit counter from 0 to 9. It u
 
 ### Proteus Simulation (Hardware with Software)
 
-INSERT GIF HERE
+![Ratificar_SingleDigit7SegCounter](https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/37192c7e-b321-40ee-b826-c9aca7373182)
+
 
 ### 8086 Assembly Software Script 
 
