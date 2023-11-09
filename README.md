@@ -5,7 +5,7 @@ This assembly code project simulates a 7-Segment digit counter from 0 to 9. It u
 
 ### Proteus Simulation (Hardware with Software)
 
-![Ratificar_SingleDigit7SegCounter](https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/37192c7e-b321-40ee-b826-c9aca7373182)
+![Ratificar_SingleDigit7SegCounter](https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/24395a56-12f8-412c-ae0a-8c6c17f4419c)
 
 
 ### 8086 Assembly Software Script 
@@ -107,15 +107,15 @@ END START
 ```
 ---
 
-### USEFUL 8285 NOTES:
-<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/4578223e-12ab-4a6a-8a15-37ec7e13f638">
-<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/d940cc65-b5f0-4c40-9c68-ed327d83361f">
-<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/b2b57c0e-e1a3-4734-9422-72c09a24830c">
+### USEFUL 8255 NOTES:
+<img width="577" alt="8255_1" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/a767581f-4618-4153-aa5c-455fcdb0dd16">
+<img width="577" alt="8255_2" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/010f02c6-1b47-4ede-9795-40116b9c273e">
+<img width="577" alt="8255_3" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/02ffec56-d3c3-43d2-8d28-15fcdd9837bc">
 
 ---
 
 ### USEFUL 8253 NOTES:
-<img width="572" alt="image" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/0a1cf56f-e345-415f-972d-b6996a1bf848">
+<img width="430" alt="8253" src="https://github.com/not-joosh/7Seg-Digit-Counter/assets/105687297/1b81c3a2-8c08-4cc2-81b3-1a7d3bf014e4">
 
 --- 
 ### References 
